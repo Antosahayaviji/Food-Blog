@@ -22,4 +22,4 @@ In this section, we have the link for rating and some content about the Food Blo
 Also, when we click the image it enters to the original receipe of that food.
 The About section represents the offer and have an option to send any queries.
 
-🌐 You can also access this website for reference: 🔗https://neocities.org/site_files/text_editor?filename=Viji%2FTask7%2Fhome.html
+🌐 You can also access this website for reference: 🔗https://latha16.neocities.org/Viji/Task7/home
